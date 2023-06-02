@@ -1,0 +1,23 @@
+html{
+    background-color:rgb(111, 182, 128);
+}
+body {
+    margin-top: -20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: lightgrey;
+}
+p{
+    padding: 10px;
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(250, 245, 120);
+    border: dashed;
+    border-color: purple;
+    border-width: 5px;
+    padding: 50px;
+    text-align: center;
+
+}
